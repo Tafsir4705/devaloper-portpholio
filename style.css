@@ -1,0 +1,38 @@
+body{
+     font-family: "Poppins", sans-serif;
+}
+section{
+    display: flex;
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+
+}
+
+img{
+    width:90%
+    
+}
+div a{
+    text-decoration: none;
+    color: white;
+    font-weight: 0;
+    /* background-color: rgb(255, 165, 0); */
+    background-image: linear-gradient(orange,tomato);
+    padding: 8px 18px;
+    border-radius: 5px;
+}
+
+   
+
+.experiances-setion{
+    width: 50%;
+    margin: 50px;
+    padding: 10px;
+    
+    border-left: 7px solid orange;
+    box-shadow: 1px 1px 30px;
+}
